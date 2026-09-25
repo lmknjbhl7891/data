@@ -3,7 +3,7 @@
     "id": "bottle_initial_1",
     "userId": "system",
     "message": "希望每个人都能找到自己的幸福！",
-    "createdAt": "2026-09-25T15:02:36.046Z",
+    "createdAt": "2026-09-25T15:04:07.778Z",
     "picked": false,
     "pickedBy": null,
     "pickedAt": null
@@ -12,7 +12,7 @@
     "id": "bottle_initial_2",
     "userId": "system",
     "message": "今天天气真好，心情也跟着变好了！",
-    "createdAt": "2026-09-25T15:02:36.047Z",
+    "createdAt": "2026-09-25T15:04:07.778Z",
     "picked": false,
     "pickedBy": null,
     "pickedAt": null
@@ -21,16 +21,7 @@
     "id": "bottle_initial_3",
     "userId": "system",
     "message": "漂流瓶真有趣，希望能收到陌生人的回复！",
-    "createdAt": "2026-09-25T15:02:36.047Z",
-    "picked": false,
-    "pickedBy": null,
-    "pickedAt": null
-  },
-  {
-    "id": "bottle_1790348645567_sm9nynk2s",
-    "userId": "user_1784424079939_h3k6pk15q",
-    "message": "我喜欢你😍",
-    "createdAt": "2026-09-25T15:04:05.567Z",
+    "createdAt": "2026-09-25T15:04:07.778Z",
     "picked": false,
     "pickedBy": null,
     "pickedAt": null
